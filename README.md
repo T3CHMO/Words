@@ -16,6 +16,9 @@ Technology stack
 2. Moralis backend with Database, Cloud functions
 3. Smart contract with onchain svg assets
 
+Contract is deployed to Rinkeby chain: 0x00d3b8221CA6aee2BaB2d5766c51091Cc448C0Ea
+
+
 dApp uses random word generator api https://random-word-api.herokuapp.com/home
 
 
