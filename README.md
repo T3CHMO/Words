@@ -16,5 +16,7 @@ Technology stack
 2. Moralis backend with Database, Cloud functions
 3. Smart contract with onchain svg assets
 
+dApp uses random word generator api https://random-word-api.herokuapp.com/home
+
 
 TODO: Code for frontend will be provided soon, after cleanup and refactoring.
