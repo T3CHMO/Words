@@ -15,3 +15,6 @@ Technology stack
 1. ReactJS with Chakra-ui
 2. Moralis backend with Database, Cloud functions
 3. Smart contract with onchain svg assets
+
+
+TODO: Code for frontend will be provided soon, after cleanup and refactoring.
